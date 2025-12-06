@@ -24,40 +24,17 @@
 
 ## 🚀 快速开始
 
-### 环境要求
-
-- Node.js (v16 或更高版本)
-- npm 或 yarn
-
 ### 安装步骤
 
-1. **克隆仓库**
-   ```bash
-   git clone https://github.com/jiangnan1224/AestheticNewTab.git
-   cd AestheticNewTab
-   ```
+1. 从[release](https://github.com/jiangnan1224/AestheticNewTab/releases)下载最新版本。
 
-2. **安装依赖**
-   ```bash
-   npm install
-   ```
+2. 解压下载的文件。
 
-3. **开发模式**
-   ```bash
-   npm run dev
-   ```
-
-4. **构建生产版本**
-   ```bash
-   npm run build
-   ```
-
-### 加载到 Chrome
-
-1. 打开 Chrome 浏览器，访问 `chrome://extensions/`。
-2. 打开右上角的 **开发者模式 (Developer mode)** 开关。
-3. 点击 **加载已解压的扩展程序 (Load unpacked)**。
-4. 选择构建生成的 `dist` 文件夹。
+3. 加载到 Chrome
+   3.1. 打开 Chrome 浏览器，访问 `chrome://extensions/`。
+   3.2. 打开右上角的 **开发者模式 (Developer mode)** 开关。
+   3.3. 点击 **加载已解压的扩展程序 (Load unpacked)**。
+   3.4. 选择解压后的 `dist` 文件夹。
 
 ## ☁️ 使用Cloudflare部署同步服务 
 
