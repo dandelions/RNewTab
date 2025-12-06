@@ -31,9 +31,13 @@
 2. 解压下载的文件。
 
 3. 加载到 Chrome
+
    3.1. 打开 Chrome 浏览器，访问 `chrome://extensions/`。
+
    3.2. 打开右上角的 **开发者模式 (Developer mode)** 开关。
+
    3.3. 点击 **加载已解压的扩展程序 (Load unpacked)**。
+
    3.4. 选择解压后的 `dist` 文件夹。
 
 ## ☁️ 使用Cloudflare部署同步服务 
