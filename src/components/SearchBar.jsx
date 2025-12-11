@@ -7,25 +7,20 @@ const SEARCH_ENGINES = {
         url: 'https://www.google.com/search?q=',
         icon: 'https://www.google.com/s2/favicons?domain=google.com&sz=128'
     },
-    baidu: {
-        name: 'Baidu',
-        url: 'https://www.baidu.com/s?wd=',
-        icon: 'https://www.google.com/s2/favicons?domain=baidu.com&sz=128'
-    },
     bing: {
         name: 'Bing',
         url: 'https://www.bing.com/search?q=',
+        icon: 'https://www.google.com/s2/favicons?domain=bing.com&sz=128'
+    },
+    bingcn: {
+        name: 'BingCn',
+        url: 'https://cn.bing.com/search?q=',
         icon: 'https://www.google.com/s2/favicons?domain=bing.com&sz=128'
     },
     duckduckgo: {
         name: 'DuckDuckGo',
         url: 'https://duckduckgo.com/?q=',
         icon: 'https://www.google.com/s2/favicons?domain=duckduckgo.com&sz=128'
-    },
-    zhihu: {
-        name: 'Zhihu',
-        url: 'https://www.zhihu.com/search?type=content&q=',
-        icon: 'https://www.google.com/s2/favicons?domain=zhihu.com&sz=128'
     }
 };
 
